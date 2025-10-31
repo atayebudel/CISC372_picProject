@@ -1,3 +1,6 @@
+// NOTE TO THE GRADER:
+    // I could not access Darwin. During class, on Wednesday, Dr. Silber instructed us to leave a note in our assignment regarding this. 
+
 #include <stdio.h>
 #include <stdint.h>
 #include <time.h>
