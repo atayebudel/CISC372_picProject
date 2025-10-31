@@ -1,0 +1,14 @@
+Script started on 2025-10-30 21:54:23-04:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="94" LINES="15"]
+atayeb@cisc372:~/CISC372_picProject$ ./image_pthreads pic1.jpg edge
+Took 5 seconds
+atayeb@cisc372:~/CISC372_picProject$ exit
+exit
+
+Script done on 2025-10-30 21:54:40-04:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2025-10-30 21:54:51-04:00 [TERM="xterm-256color" TTY="/dev/pts/10" COLUMNS="94" LINES="15"]
+atayeb@cisc372:~/CISC372_picProject$ OMP_NUM_THREADS=4 ./image_omp pic1.jpg edge
+Took 5 seconds
+atayeb@cisc372:~/CISC372_picProject$ exit
+exit
+
+Script done on 2025-10-30 21:55:05-04:00 [COMMAND_EXIT_CODE="0"]
